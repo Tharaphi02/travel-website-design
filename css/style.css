@@ -130,7 +130,7 @@ section{
     background-blend-mode: multiply;
 }
 .home .flex {
-    min-height: calc(100vh - 10rem);
+    min-height: calc(100vh);
     display: flex;
     align-items: center;
     justify-content: center;
